@@ -14,8 +14,8 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizChavesM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2"
+      height="189" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizChavesM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
 </p>
