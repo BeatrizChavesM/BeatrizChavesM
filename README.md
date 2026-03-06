@@ -4,14 +4,6 @@
 📍 Caruaru – PE  
 💡  Buscando oportunidade de estágio na área de tecnologia
 
-## 📊 Linguagens mais usadas
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeatrizChavesM&theme=tokyonight"
-  />
-</p>
-
 ## 🚀 Ferramentas
 
 <div style="display: inline_block"><br>
@@ -22,5 +14,13 @@
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
+
+## 📊 Linguagens mais usadas
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeatrizChavesM&theme=tokyonight"
+  />
+</p>
 
 <br><br><br><br><br><br>
