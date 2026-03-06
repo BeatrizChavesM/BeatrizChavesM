@@ -2,13 +2,13 @@
 
 🎓 Estudante de Ciência da Computação na Unifavip Wyden  
 📍 Caruaru – PE  
-💡 Interessada em desenvolvimento de software, aplicações web e aprendizado contínuo em tecnologia.
+💡  Buscando oportunidade de estágio na área de tecnologia
 
 ## 📊 Linguagens mais usadas
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizChavesM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeatrizChavesM&theme=tokyonight"
   />
 </p>
 
